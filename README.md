@@ -1,6 +1,7 @@
 # cert-sn
 获取应用公钥证书SN
 
+npx cert-sn fileList
 ```
 npx cert-sn alipayRootCert.crt alipayCertPublicKey_RSA2.crt appCertPublicKey.crt
 
